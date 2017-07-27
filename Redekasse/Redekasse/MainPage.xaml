@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Redekasse"
+             x:Class="Redekasse.MainPage">
+
+	<Label Text="Redekasse app virker!" 
+           VerticalOptions="Center" 
+           HorizontalOptions="Center" />
+
+</ContentPage>
